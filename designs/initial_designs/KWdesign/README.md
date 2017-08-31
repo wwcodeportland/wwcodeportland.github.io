@@ -1,8 +1,8 @@
 ## Women Who Code PDX website
 
-![Design screenshot](/WWCode-desktop_2017-05-16.png)
+![Design screenshot](/current_desktop_screenshot.png)
 
-[Current desktop mockup prototype](https://xd.adobe.com/view/f0d96a19-2c95-48cb-bde1-0d8acb0bfef4/)
+[Current desktop mockup prototype](https://xd.adobe.com/view/e20a88af-fcee-441d-a2b5-2493744d2247/)
 
 [Current mobile mockup prototype](https://xd.adobe.com/view/16d03437-a576-4108-969d-38c4a99804e7/)
 
